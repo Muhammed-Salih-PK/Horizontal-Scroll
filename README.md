@@ -1,5 +1,8 @@
 # 🚀 React Horizontal Scroll with GSAP
 
+## 📌 Live Demo
+Check out the live demo: [Horizontal Scroll](https://horizontal-scroll-lake.vercel.app/)
+
 ## 📌 Project Overview
 This project implements a **smooth horizontal scrolling** effect using **React, GSAP, and ScrollTrigger**. As the user scrolls vertically, the content moves **horizontally**, creating a seamless scrolling experience.
 

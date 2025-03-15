@@ -6,7 +6,7 @@ const App = () => {
     <>
       {/* Intro Section */}
       <div className="h-screen w-full bg-gradient-to-r from-purple-500 to-indigo-600 flex items-center justify-center text-white text-6xl font-extrabold">
-        <h1>Scroll Down ⬇</h1>
+        <h1>Scroll Down</h1>
       </div>
 
       {/* Horizontal Scroll Section */}
